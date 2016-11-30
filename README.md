@@ -7,4 +7,4 @@ Wordpress soru cevap eklentileri arasında en popüler ve en kaliteli soru cevap
 
 languages klasörünün içerisine yolluyoruz ve eski dosya ile değiştiriyoruz.
 
-Bu çeviri <span style="text-decoration: underline;"><strong><a href="http://atvmotor.web.tr" target="_blank">atvmotor</a></strong></span> sitesi aracılığı ile yapılmış olup isteklerinizi iletişim yolu ile yapabilirsiniz.
+Bu çeviri <span style="text-decoration: underline;"><strong><a href="http://atvmotor.web.tr" target="_blank">atv motor</a></strong></span> sitesi aracılığı ile yapılmış olup isteklerinizi iletişim yolu ile yapabilirsiniz.
